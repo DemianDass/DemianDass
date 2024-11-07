@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Damian Olave, tengo 24 años,<br><br>Estudie Ingenieria Informatica, tengo toda la motivacion para aprender mas en este mundo tan interesante de la tecnologia,|<br><br>Tengo conocimiento sobre JS,Python,CSS,HTML y Ahora me encuetro realizando mi practica profesional<br><br>como analista de datos comerciales en Derco.<br><br>¡Muchas gracias por visitar mi perfil, contactamen cualquier cosa que necesites y si quieres a alguien entusiasta!<br><br>¡Saludos desde Chile!
+Mi nombre es Damian Olave, tengo 24 años,<br><br>Estudie Ingenieria Informatica, tengo toda la motivacion para aprender mas en este mundo tan interesante de la tecnologia,<br><br>Tengo conocimiento sobre JS,Python,CSS,HTML y Ahora me encuetro realizando mi practica profesional<br><br>como analista de datos comerciales en Derco.<br><br>¡Muchas gracias por visitar mi perfil, contactamen cualquier cosa que necesites y si quieres a alguien entusiasta!<br><br>¡Saludos desde Chile!
 
 
 ## 🌐 Socials:
